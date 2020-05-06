@@ -1,0 +1,4 @@
+Disclaimer:
+ - This chat interface is NOT private.
+ - Anything spoken in this chat interface will be added to a public dataset for the improvement of conversational NLP models.
+ - We are not responsible for any privacy concerns you may have concerning what is spoken about in this chat.
